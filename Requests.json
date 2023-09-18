@@ -1,0 +1,101 @@
+[
+  {
+    "type": "Necessity.NotAttendingRequest, TemplateBot, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Request": {
+      "Complete": false,
+      "RaidDate": {
+        "Complete": true,
+        "Time": "2017-10-09T13:42:45.5277003+02:00"
+      },
+      "Reason": {
+        "Complete": true,
+        "Text": "idk"
+      }
+    },
+    "isActive": false,
+    "UserID": 170605899189190656,
+    "Username": "SindreMA",
+    "StartTime": "0001-01-01T00:00:00"
+  },
+  {
+    "type": "Necessity.LateRequest, TemplateBot, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Request": {
+      "Complete": false,
+      "RaidDate": {
+        "Complete": true,
+        "Time": "2017-10-10T08:57:55.3031206+02:00"
+      },
+      "Reason": {
+        "Complete": true,
+        "Text": "work"
+      },
+      "HowMuchLate": {
+        "Complete": true,
+        "Text": "5 min"
+      }
+    },
+    "isActive": false,
+    "UserID": 170605899189190656,
+    "Username": "SindreMA",
+    "StartTime": "0001-01-01T00:00:00"
+  },
+  {
+    "type": "Necessity.NotAttendingRequest, TemplateBot, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Request": {
+      "Complete": false,
+      "RaidDate": {
+        "Complete": true,
+        "Time": "2017-10-12T15:05:29.2756347+02:00"
+      },
+      "Reason": {
+        "Complete": true,
+        "Text": "g"
+      }
+    },
+    "isActive": false,
+    "UserID": 170605899189190656,
+    "Username": "SindreMA",
+    "StartTime": "0001-01-01T00:00:00"
+  },
+  {
+    "type": "Necessity.OMessageRequest, TemplateBot, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Request": {
+      "Complete": true,
+      "Text": "lol"
+    },
+    "isActive": false,
+    "UserID": 170605899189190656,
+    "Username": "SindreMA",
+    "StartTime": "0001-01-01T00:00:00"
+  },
+  {
+    "type": "Necessity.LateRequest, TemplateBot, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Request": {
+      "Complete": false,
+      "RaidDate": {
+        "Complete": true,
+        "Time": "2017-10-30T23:23:38.9793471+01:00"
+      },
+      "Reason": {
+        "Complete": true,
+        "Text": "traffic"
+      },
+      "HowMuchLate": {
+        "Complete": true,
+        "Text": "5 min"
+      }
+    },
+    "isActive": false,
+    "UserID": 170605899189190656,
+    "Username": "SindreMA",
+    "StartTime": "0001-01-01T00:00:00"
+  },
+  {
+    "type": null,
+    "Request": null,
+    "isActive": true,
+    "UserID": 170605899189190656,
+    "Username": "SindreMA",
+    "StartTime": "0001-01-01T00:00:00"
+  }
+]
